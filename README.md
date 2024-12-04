@@ -55,5 +55,3 @@ Sebelum menjalankan notebook ini, pastikan Anda telah menginstal pustaka berikut
 - **GMM**  
   Model GMM juga dievaluasi dengan *silhouette score* untuk menentukan konfigurasi parameter yang optimal.
 
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License].
