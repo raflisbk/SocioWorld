@@ -1,4 +1,4 @@
-# Analisis Data Ekonomi Dunia: PCA, K-Means, dan GMM
+# Analisis Data  & Clustering Ekonomi Dunia: PCA, K-Means, dan GMM
 
 Repositori ini berisi notebook dan kode Python yang digunakan untuk analisis data ekonomi dunia dengan berbagai metode clustering dan optimasi, termasuk PCA (Principal Component Analysis), K-Means, dan Gaussian Mixture Model (GMM). 
 
